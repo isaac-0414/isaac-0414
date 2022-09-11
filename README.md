@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Isaac Zheng
+- 👀 I’m interested in HTML, CSS, JS, React, Node, Express, SQL, MongoDB and other web techniques
+- 🌱 I’m currently learning CS & Stat at University of Illinois. I am learning data analysis with Python and R. I also learnt and wrote C++ and Java
+- 💞️ I’m looking for interesting front-end projects
+- 📫 reach me on email: isaaczheng0414@gmail.com or zheng72@illinois.edu
