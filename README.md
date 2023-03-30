@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Isaac Zheng
-- 👀 I’m interested in HTML, CSS, JS, React, Node, Express, SQL, MongoDB and other web techniques
-- 🌱 I’m currently learning CS & Stat at University of Illinois. I am learning data analysis with Python and R. I also learnt and write C++ and Java
-- 💞️ I’m looking for interesting front-end projects
+- 🌱 I’m currently a CS undergrad @ UIUC. 
+- 👀 I’m interested all the new technologies coming out.
+- ⚡  Checkout my portfolio at http://isaaczheng.com
+- 🔭 I’m currently working on a startup, Geni. check it out at...
+- 👯 I’m looking for interesting web/AI projects
 - 📫 reach me on email: isaaczheng0414@gmail.com or zheng72@illinois.edu
