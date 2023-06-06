@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👀 I’m interested all the new technologies coming out.
 - ⚡  Checkout my portfolio at http://isaaczheng.com
 - 🔭 I’m currently working on a startup, Geni. check it out at...
-- 👯 I’m looking for interesting web/AI projects
+- 👯 I’m looking for interesting AI/Web/software/game projects
 - 📫 reach me on email: isaaczheng0414@gmail.com or zheng72@illinois.edu
