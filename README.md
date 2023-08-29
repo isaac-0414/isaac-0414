@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently a CS undergrad @ UIUC. 
 - 👀 I’m interested all the new technologies coming out.
 - ⚡  Checkout my portfolio at http://isaaczheng.com
-- 🔭 I’m currently working on a startup, Geni. check it out at...
+- 🔭 I co-founded on a startup, Geni. check it out at [geni.zone](http://geni.zone)
 - 👯 I’m looking for interesting AI/Web/software/game projects
 - 📫 reach me on email: isaaczheng0414@gmail.com or zheng72@illinois.edu
+- 🧳 Checkout my linkedin at [https://www.linkedin.com/in/zhiheng-zheng-623387235/](https://www.linkedin.com/in/zhiheng-zheng-623387235/)
